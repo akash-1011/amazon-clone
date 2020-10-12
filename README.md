@@ -1,6 +1,6 @@
 https://clone-3e82f.web.app/
 
-## To run the projust locally:
+## To run the project locally:
 
 ### `git clone https://github.com/akash-1011/amazon-clone.git`
 
